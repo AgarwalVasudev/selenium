@@ -1,0 +1,9 @@
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="com.hrms.testscripts.TC001_LoginLogout" />
+       <class name="com.hrms.testscripts.TC001_AddEmployee" />
+       <class name="com.hrms.testscripts.TC003_DeleteEmployee" />
+    </classes>
+  </test>
+</suite>
